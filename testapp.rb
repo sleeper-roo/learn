@@ -3,10 +3,8 @@ gets
 
 m = {}
 scope :name, ->(argument){ where(attribute: argument) }
-111
-2
 
-3
-
-4
-
+m loop do
+  ну и вот
+  
+end
